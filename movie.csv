@@ -1,6 +1,6 @@
-Title,Genres,IMDb Rating
-Movie1,"Action, Drama",9.5
-Movie2,Drama,9.8
-Movie3,Action,9
-Movie4,Comedy,8.0
-Movie5,Drama,7.5
+Title,Genres,IMDb Rating,Comment
+Movie1,"Action, Drama",9.5,สนุก
+Movie2,Drama,9.8,สนุก
+Movie3,Action,9,สนุก
+Movie4,Comedy,8.0,สนุก
+Movie5,Drama,7.5,สนุก
